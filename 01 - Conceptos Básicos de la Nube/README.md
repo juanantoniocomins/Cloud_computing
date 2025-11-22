@@ -4,7 +4,9 @@ La computación en la nube de AWS permite obtener tecnología por internet cuand
 La nube es como alquilar computadoras, almacenamiento y bases de datos por internet, justo en el momento que las necesitas y desde cualquier lugar con un navegador.  
 El modelo de precios es **pago por uso** (pay-as-you-go), evitando grandes compras iniciales y contratos largos.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=18bZpTGXFJV6aCBiBKnhxMvfMBZ9CuYvy)
+<div style="text-align: center;">
+  <img src="https://drive.google.com/uc?export=view&id=18bZpTGXFJV6aCBiBKnhxMvfMBZ9CuYvy" alt="Descripción de la imagen">
+</div>
 
 ## Por qué importa
 Las empresas pueden innovar más rápido porque consiguen recursos en minutos y sin esperas largas de hardware físico.  
