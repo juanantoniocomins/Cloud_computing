@@ -29,7 +29,7 @@ La **alta disponibilidad** reduce el tiempo sin servicio y la **tolerancia a fal
 
 <p align="center">
   <img 
-    src="https://drive.google.com/uc?export=view&id=18bZpTGXFJV6aCBiBKnhxMvfMBZ9CuYvy" 
+    src="https://drive.google.com/uc?export=view&id=18lAPwRIRX6Jw_5qOmvA4rhLIXUfPjbV1" 
     alt="Descripción de la imagen"
   />
 </p>
