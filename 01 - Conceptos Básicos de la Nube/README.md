@@ -47,6 +47,13 @@ Esto reduce riesgos físicos y mantiene disponible la infraestructura que susten
 El cliente clasifica y cifra datos, define permisos con IAM, mantiene sistemas actualizados y configura reglas de red adecuadas.  
 También revisa código y dependencias para evitar vulnerabilidades.
 
+<p align="center">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=1IP1vpuv0H8rt4K2if273u9Z0rQeMiQd7" 
+    alt="Descripción de la imagen"
+  />
+</p>
+
 ## Caso práctico: e-commerce global
 Una tienda online puede desplegar su aplicación en dos Regiones (por ejemplo, Irlanda y Singapur) usando al menos dos AZ por Región para mejorar latencia y resistir fallos.  
 AWS protege los centros de datos; la empresa protege la información del cliente y cumple normas como PCI-DSS en la capa de aplicación y datos.
