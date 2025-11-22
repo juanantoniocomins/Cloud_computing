@@ -27,6 +27,13 @@ Para que una aplicación no se caiga, se despliega en varias AZ dentro de una mi
 Esto permite resistir fallos sin interrumpir el servicio.  
 La **alta disponibilidad** reduce el tiempo sin servicio y la **tolerancia a fallos** permite seguir funcionando incluso si algo crítico falla.
 
+<p align="center">
+  <img 
+    src="https://drive.google.com/uc?export=view&id=18bZpTGXFJV6aCBiBKnhxMvfMBZ9CuYvy" 
+    alt="Descripción de la imagen"
+  />
+</p>
+
 ## Responsabilidad compartida
 La seguridad se reparte entre AWS y el cliente:
 - **AWS:** seguridad *de la nube* (instalaciones, hardware, redes, virtualización).  
