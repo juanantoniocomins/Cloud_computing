@@ -56,10 +56,10 @@ AWS tiene centros de datos enormes repartidos por países.
 
 | Región            | País / Ciudad | AZ (Cantidad) |
 |------------------|---------------|---------------|
-| 🇮🇪 Europa        | Irlanda       | 🏢🏢🏢 (3)      |
-| 🇩🇪 Europa        | Alemania      | 🏢🏢 (2)        |
-| 🇸🇬 Asia          | Singapur      | 🏢🏢🏢 (3)      |
-| 🇺🇸 EE. UU.       | Virginia      | 🏢🏢🏢🏢 (4)     |
+| 🌍 Europa        | Irlanda       | 🏢🏢🏢 (3)      |
+| 🌍 Europa        | Alemania      | 🏢🏢 (2)        |
+| 🌍 Asia          | Singapur      | 🏢🏢🏢 (3)      |
+| 🌍 EE. UU.       | Virginia      | 🏢🏢🏢🏢 (4)     |
 
 Cada sitio grande es una **Región**.  
 Cada edificio dentro de la Región es una **Zona de Disponibilidad (AZ)**.
