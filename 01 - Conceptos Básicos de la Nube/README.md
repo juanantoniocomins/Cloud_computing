@@ -1,66 +1,80 @@
-La computación en la nube de AWS permite obtener tecnología por internet cuando se necesita, pagando solo por lo que se usa y con alcance mundial para crecer rápido y de forma segura.
+<div style="text-align: justify;">
 
-## Qué es la nube
-La nube es como alquilar computadoras, almacenamiento y bases de datos por internet, justo en el momento que las necesitas y desde cualquier lugar con un navegador.  
-El modelo de precios es **pago por uso** (pay-as-you-go), evitando grandes compras iniciales y contratos largos.
+La computación en la nube de AWS permite usar tecnología por internet cuando la necesitas, sin comprar máquinas caras. Pagas solo por lo que usas y puedes crecer muy rápido y de forma segura.
+
+## ¿Qué es la nube?
+La nube es como **alquilar** ordenadores, espacio para guardar archivos y bases de datos por internet.  
+Solo los usas cuando los necesitas y desde cualquier lugar con un navegador.  
+Así evitas comprar equipos grandes o firmar contratos largos.
+
+</div>
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=18bZpTGXFJV6aCBiBKnhxMvfMBZ9CuYvy" alt="Descripción de la imagen" />
 </p>
 
-## Por qué importa
-Las empresas pueden innovar más rápido porque consiguen recursos en minutos y sin esperas largas de hardware físico.  
-AWS es una plataforma líder con millones de clientes, lo que aporta madurez, variedad de servicios y soporte global.
+<div style="text-align: justify;">
 
-## Beneficios clave
-- **Gasto variable:** cambia compras grandes (CapEx) por costes según consumo (OpEx).  
-- **Ahorros por escala:** AWS compra a gran volumen y traslada eficiencia a los clientes.  
-- **Agilidad:** aprovisionamiento en minutos para probar ideas sin riesgo alto.  
-- **Capacidad elástica:** ajusta recursos según demanda real para evitar desperdicio.
+## ¿Por qué es importante?
+Porque las empresas pueden crear ideas nuevas muy rápido.  
+No tienen que esperar a que llegue un ordenador físico: lo piden por internet y listo.  
+AWS tiene millones de clientes, así que es una plataforma grande, probada y con mucha ayuda disponible.
+
+## Beneficios de la nube
+- **Pagas solo lo que usas:** como cuando pagas la luz o el agua.  
+- **Es más barata:** porque millones de personas usan la misma plataforma.  
+- **Todo es rápido:** puedes tener un servidor listo en minutos.  
+- **No tienes que adivinar cuánta capacidad necesitas:** puedes aumentar o reducir lo que usas cuando quieras.  
+- **Funciona en todo el mundo:** puedes poner tus aplicaciones en diferentes países.  
+- **Es elástica:** si hay mucha gente usando tu aplicación, la nube pone más recursos sin que hagas nada.  
+- **Siempre mejora:** AWS actualiza y mejora sus servicios todo el tiempo.  
+- **Es más segura y resistente:** si un centro de datos falla, otro sigue funcionando.
 
 ## Infraestructura global
-AWS organiza el mundo en **Regiones** (como Irlanda, Ohio o Singapur) formadas por varias **Zonas de Disponibilidad (AZ)**, aisladas entre sí.  
-Cada AZ incluye uno o más centros de datos con energía, red y conectividad redundantes para alta fiabilidad.
+AWS está dividido en **Regiones** (como países) y cada Región tiene varias **Zonas de Disponibilidad (AZ)**.  
+Cada AZ es como un edificio con muchos servidores, electricidad y redes preparados para que no fallen.
 
 ## Alta disponibilidad y tolerancia a fallos
-Para que una aplicación no se caiga, se despliega en varias AZ dentro de una misma Región.  
-Esto permite resistir fallos sin interrumpir el servicio.  
-La **alta disponibilidad** reduce el tiempo sin servicio y la **tolerancia a fallos** permite seguir funcionando incluso si algo crítico falla.
+Para que una aplicación no se caiga, se pone en **varias AZ a la vez**.  
+Si un edificio falla, otro sigue funcionando.  
+Así, los usuarios casi nunca notan problemas.
+
+</div>
 
 <p align="center">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=18lAPwRIRX6Jw_5qOmvA4rhLIXUfPjbV1" 
-    alt="Descripción de la imagen"
-  />
+  <img src="https://drive.google.com/uc?export=view&id=18lAPwRIRX6Jw_5qOmvA4rhLIXUfPjbV1" alt="Descripción de la imagen" />
 </p>
+
+<div style="text-align: justify;">
 
 ## Responsabilidad compartida
-La seguridad se reparte entre AWS y el cliente:
-- **AWS:** seguridad *de la nube* (instalaciones, hardware, redes, virtualización).  
-- **Cliente:** seguridad *en la nube* (datos, IAM, parches, firewalls, configuración segura).
+La seguridad se divide en dos partes:
+- **AWS protege la nube:** los edificios, los servidores, las redes y la parte básica de los servicios.  
+- **El cliente protege lo que pone dentro de la nube:** sus datos, contraseñas, permisos, configuraciones y programas.
 
-## Seguridad de AWS
-AWS protege centros de datos, servidores, la red global que conecta regiones y AZ, y las capas de virtualización y software gestionado.  
-Esto reduce riesgos físicos y mantiene disponible la infraestructura que sustenta los servicios en la nube.
+## ¿Qué protege AWS?
+Los centros de datos, los servidores, la red mundial y el software que hace que todo funcione.  
+Gracias a esto, la infraestructura es segura y está siempre disponible.
 
-## Seguridad del cliente
-El cliente clasifica y cifra datos, define permisos con IAM, mantiene sistemas actualizados y configura reglas de red adecuadas.  
-También revisa código y dependencias para evitar vulnerabilidades.
+## ¿Qué protege el cliente?
+Los datos, los usuarios y permisos, las actualizaciones de sus máquinas o aplicaciones, y cómo configura la seguridad de su red en la nube.  
+También debe revisar su código para evitar errores y ataques.
+
+</div>
 
 <p align="center">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=1IP1vpuv0H8rt4K2if273u9Z0rQeMiQd7" 
-    alt="Descripción de la imagen"
-  />
+  <img src="https://drive.google.com/uc?export=view&id=1IP1vpuv0H8rt4K2if273u9Z0rQeMiQd7" alt="Descripción de la imagen" />
 </p>
 
-## Caso práctico: e-commerce global
-Una tienda online puede desplegar su aplicación en dos Regiones (por ejemplo, Irlanda y Singapur) usando al menos dos AZ por Región para mejorar latencia y resistir fallos.  
-AWS protege los centros de datos; la empresa protege la información del cliente y cumple normas como PCI-DSS en la capa de aplicación y datos.
+<div style="text-align: justify;">
 
 ## Conclusión
-La nube transforma TI de un centro de costes a un motor de innovación gracias a su agilidad y modelo de pago por uso.  
-Las Regiones y AZ aportan resiliencia por diseño, y el modelo de responsabilidad compartida crea una alianza sólida para una seguridad robusta.
+La nube ayuda a las empresas a innovar, ser rápidas y ahorrar dinero.  
+Además, es flexible, segura y tiene centros de datos por todo el mundo.  
+Con el modelo de responsabilidad compartida, tanto AWS como los clientes trabajan juntos para mantener todo protegido.
+
+</div>
+
 
 ## 📂 Documentación
 
