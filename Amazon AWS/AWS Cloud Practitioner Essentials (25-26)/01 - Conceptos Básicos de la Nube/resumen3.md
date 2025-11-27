@@ -1,4 +1,4 @@
-# 📚 Fundamentos de AWS - Infografía 3 Completa
+# 📚 Fundamentos de AWS 
 
 > 🎯 **Guía completa: Modelo Cliente-Servidor, 6 Superpoderes, Despliegues y Responsabilidad**
 
