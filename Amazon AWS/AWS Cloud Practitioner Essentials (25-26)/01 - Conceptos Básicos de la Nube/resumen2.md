@@ -1,4 +1,4 @@
-# 📊 Fundamentos de AWS - Infografía 2
+# 📊 Fundamentos de AWS
 
 > 🎯 **Resumen visual de conceptos y beneficios clave + Estructura global y seguridad**
 
