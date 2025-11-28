@@ -20,16 +20,6 @@ Este repositorio reúne conceptos, ejemplos y recursos relacionados con Cloud Co
 
 ---
 
-## 📁 Contenido del repositorio
-
-- Guías de uso de cada proveedor  
-- Ejemplos de arquitecturas  
-- Scripts de automatización (Terraform, Ansible, CLI)  
-- Ejercicios o laboratorios prácticos  
-- Buenas prácticas y documentación
-
----
-
 ## 🧭 Objetivo
 
 Servir como punto de referencia para aprender, comparar y aplicar conceptos de Cloud Computing de forma práctica, útil tanto para estudio como para proyectos reales.
