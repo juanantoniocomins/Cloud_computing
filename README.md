@@ -1,4 +1,4 @@
-# ☁️ Cloud ComputingPPPPPPPPPPPPPPPPPPPPPP
+# ☁️ Cloud Computing
 
 Este repositorio reúne conceptos, ejemplos y recursos relacionados con Cloud Computing, con un resumen comparativo de los principales proveedores del mercado.
 
