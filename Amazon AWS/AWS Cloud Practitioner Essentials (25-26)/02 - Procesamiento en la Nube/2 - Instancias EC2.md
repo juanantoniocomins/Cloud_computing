@@ -1,7 +1,4 @@
-# 🚀 Guía Completa de AWS: De Zero a Hero
-
-
-# PARTE 3: Tipos de Instancias EC2 - Elige Tu Arma 🎮
+# Tipos de Instancias EC2 - Elige Tu Arma 🎮
 
 ## ☕ La Cafetería de las Instancias EC2
 
