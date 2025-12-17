@@ -1053,43 +1053,13 @@ Quieres probar una idea nueva pero no sabes si funcionará. ¿Por qué EC2 es pe
 
 ---
 
-### 💭 ¿Qué esperas para crear algo increíble?
-
-**El mundo de la nube es tuyo** ☁️✨
-
----
-
-### 🚀 Tu Viaje Apenas Comienza
-
-```
-     🌱 Comenzaste aquí
-          ↓
-     📚 Aprendiste los 6 beneficios de AWS
-          ↓
-     ☁️ Descubriste Amazon EC2
-          ↓
-     🎨 Dominaste los tipos de instancias
-          ↓
-     🧪 Ahora experimenta
-          ↓
-     🚀 Luego crea
-          ↓
-     🌟 ¡Y cambia el mundo!
-```
-
----
-
 ### 📞 ¿Necesitas Ayuda?
 
-- 📖 [Documentación AWS](https://docs.aws.amazon.com)
-- 🎓 [AWS Training](https://aws.amazon.com/training)
-- 💬 [Comunidad AWS](https://forums.aws.amazon.com)
-- 🎥 [YouTube AWS](https://youtube.com/@amazonwebservices)
+📖 [Documentación AWS](https://docs.aws.amazon.com)
+🎓 [AWS Training](https://aws.amazon.com/training)
+💬 [Comunidad AWS](https://forums.aws.amazon.com)
+🎥 [YouTube AWS](https://youtube.com/@amazonwebservices)
 
 ---
-
-**Hecho con ❤️ para futuros arquitectos de la nube**
-
-*"La mejor manera de predecir el futuro es crearlo"* 🚀
 
 </div>
