@@ -1,27 +1,5 @@
-# 🚀 Guía Completa de AWS: De Zero a Hero
 
-> 🎯 **Lo que vas a aprender:**
-> - Los 6 beneficios increíbles de AWS
-> - Qué es Amazon EC2 y cómo usarlo
-> - Por qué las empresas aman la nube
-> - Cómo crear servidores en minutos ⚡
-
----
-
-<div align="center">
-
-## 📚 ÍNDICE DE CONTENIDOS
-
-**[PARTE 1: Los 6 Superpoderes de AWS](#parte-1-los-6-superpoderes-de-aws-)**
-
-**[PARTE 2: Amazon EC2 - Tu Supermercado de Servidores](#parte-2-amazon-ec2---tu-supermercado-de-servidores-)**
-
-</div>
-
----
----
-
-# PARTE 1: Los 6 Superpoderes de AWS 💎
+# Los 6 Superpoderes de AWS 💎
 
 ## 🌟 ¿Por Qué AWS es Tan Popular?
 
@@ -331,7 +309,7 @@ Tu app en México es un éxito y quieres llevarla a Argentina.
 ---
 ---
 
-# PARTE 2: Amazon EC2 - Tu Supermercado de Servidores 🚀
+# Amazon EC2 - Tu Supermercado de Servidores 🚀
 
 ## 🤔 ¿Qué es Amazon EC2?
 
@@ -1042,10 +1020,6 @@ Quieres probar una idea nueva pero no sabes si funcionará. ¿Por qué EC2 es pe
 ---
 
 <div align="center">
-
-## 🎊 ¡Felicidades!
-
-**Has completado la Guía Completa de AWS y EC2** 🎓
 
 ### Ahora sabes:
 ✅ Los 6 superpoderes de AWS  
