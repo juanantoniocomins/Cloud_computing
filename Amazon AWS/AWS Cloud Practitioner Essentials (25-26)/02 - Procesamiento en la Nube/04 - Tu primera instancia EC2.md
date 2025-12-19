@@ -707,11 +707,7 @@ Veremos más detalles sobre los matices adelante en el curso."* 🎓
 
 **Cada instancia que lances te hace más experto** 🏆
 
----
 
-### 🚀 Tu Viaje en AWS Continúa
-
-**El próximo paso: profundizar en cada configuración** ✨
 
 </div>
 
