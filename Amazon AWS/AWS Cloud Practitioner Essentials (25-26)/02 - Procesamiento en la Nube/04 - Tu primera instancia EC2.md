@@ -694,12 +694,6 @@ Recuerda:
 
 **De cero a servidor web en minutos** ⚡
 
----
-
-### 💭 Recuerda
-
-*"Esto es lo básico sobre configurar instancias de EC2.  
-Veremos más detalles sobre los matices adelante en el curso."* 🎓
 
 ---
 
