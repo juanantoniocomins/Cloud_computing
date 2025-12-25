@@ -49,18 +49,4 @@ Herramienta para definir y ejecutar aplicaciones con múltiples contenedores.
 
 ---
 
-## 📂 Estructura del contenido
-
-Este módulo está organizado de forma progresiva:
-
-```text
-docker/
-├── 01_introduccion/
-├── 02_imagenes/
-├── 03_contenedores/
-├── 04_volumenes/
-├── 05_redes/
-├── 06_docker_compose/
-├── ejercicios/
-└── README.md
 
