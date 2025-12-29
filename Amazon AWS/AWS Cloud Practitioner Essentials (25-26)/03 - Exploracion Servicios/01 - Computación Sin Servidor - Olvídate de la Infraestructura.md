@@ -713,13 +713,6 @@ otras veces, solo buscarás una taza de café rápida
 sin complejidades"* ☕
 
 ---
-
-### 🚀 Próximo Nivel
-
-**AWS Lambda y servicios de contenedores** ⏭️
-
-**¡El mundo sin servidor te espera!** ✨
-
 </div>
 
 ---
