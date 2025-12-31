@@ -328,7 +328,7 @@ CloudFormation hace TODO esto con el mismo template 🚀
     🛒 Edge Loc      🛒 Edge Loc     🛒 Edge Loc
          ↓                ↓                ↓
     🏪 Región        🏪 Región       🏪 Región
-    (Madrid)         (Virginia)      (Tokio)
+    (Madrid)          (Virginia)        (Tokio)
          |                |                |
          └────────────────┴────────────────┘
                           |
