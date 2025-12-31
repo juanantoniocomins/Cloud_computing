@@ -30,7 +30,7 @@ Tienes la app más increíble del mundo... ¿pero DÓNDE la pones? 🤔 AWS tien
     |       |
 VIRGINIA  TOKYO
     |       |
-    🔒      🔒
+    🔒     🔒
 ```
 
 **LO IMPORTANTE:** Los datos en una región NO salen de ahí a menos que TÚ lo permitas explícitamente.
@@ -278,8 +278,8 @@ SERVIDOR SYDNEY: 280ms
            |
     ┌──────┼──────┐
     |      |      |
-   🇪🇸    🇺🇸    🇯🇵
-Europa   USA   Asia
+    🇪🇸     🇺🇸      🇯🇵
+  Europa  USA    Asia
     |      |      |
     ↓      ↓      ↓
  Madrid Virginia Tokyo
@@ -691,10 +691,10 @@ Elige región por LEY ✅                   |
                                [4] ¿Está         Busca región
                                en presupuesto?   con servicio
                                     |              |
-                               ┌────┼────┐        |
-                               SÍ       NO        |
-                               |        |         |
-                               ↓        ↓         ↓
+                               ┌────┼────┐         |
+                               SÍ       NO         |
+                               |         |         |
+                               ↓         ↓         ↓
                            ¡LISTO!  Reconsidera  Evalúa
                               ✅     opciones   trade-offs
 ```
@@ -1090,19 +1090,13 @@ Made with 💙🗺️ para futuros cloud architects
         |              |    |    |
     Elige esa       ¿Tiene  features?
         |              |
-      LISTO         SÍ/NO
-                     |
-                  ¿Precio ok?
-                     |
-                   LISTO ✅
+      LISTO          SÍ/NO
+                       |
+                   ¿Precio ok?
+                       |
+                    LISTO ✅
 ```
 
 **Remember:** La mejor región es la que balancea TODOS los factores para TU caso específico. 🎯
 
 ---
-
-> 📝 **Última actualización:** Diciembre 2024
-> 🗺️ **Regiones cubiertas:** 30+
-> ⏱️ **Tiempo de lectura:** 20 minutos
-> 🎯 **Nivel:** Principiante a Avanzado
-> 💡 **Pro-tip:** Usa este documento como checklist cuando elijas tu próxima región!
