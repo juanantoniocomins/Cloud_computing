@@ -23,3 +23,7 @@ Este repositorio reúne conceptos, ejemplos y recursos relacionados con Cloud Co
 ## 🧭 Objetivo
 
 Servir como punto de referencia para aprender, comparar y aplicar conceptos de Cloud Computing de forma práctica, útil tanto para estudio como para proyectos reales.
+
+---
+
+![Descripción](https://drive.google.com/uc?export=view&id=1p78tAP-0qP0LKdIar51279u0A-thRAc5)
